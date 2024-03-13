@@ -1,0 +1,51 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: url(aaaaaa.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    background: rgb(202, 97, 114);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background: #b6304d;
+}
+
+h2 {
+    color: #4d1164;
+    right: 13px;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h3 {
+    color: aliceblue;
+    position: absolute;
+    bottom: 0%;
+    left: o;
+    font-size: x-small;
+}
